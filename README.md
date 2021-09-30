@@ -23,5 +23,3 @@ You will receive a message from the bot with user data, something like this ```[
 Example: ```!mute 1234567```
 ## Start
 ```python bot.py```
-## Donate
-If you want, you can [support](https://destream.net/live/iterweb/donate) me!
